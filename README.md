@@ -1,6 +1,6 @@
 # Reto-02
 
-El diagrama UML modela el sistema de transporte público de Bogotá: Transmilenio. Representa las entidades principales que lo componen como buses, estaciones, rutas y usuarios, mostrando sus atributos, métodos y relaciones. Se composición y herencia para reflejar cómo se conectan e interactúan las clases entre sí.
+El diagrama UML modela el sistema de transporte público de Bogotá: Transmilenio. Representa las entidades principales que lo componen como buses, estaciones, rutas y usuarios, mostrando sus atributos, métodos y relaciones. Se usa la composición y herencia para reflejar cómo se conectan e interactúan las clases entre sí.
 
 ## Descripción general
 
