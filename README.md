@@ -1,11 +1,11 @@
 # Reto-02
 
-Se presenta un diagrama UML que modela el sistema de transporte público de Bogotá: TransMilenio. Se representan las entidades principales del sistema, sus características y comportamientos (atributos y métodos), así como las relaciones que existen entre ellas (composición y herencia)
-Se abstraen los elementos que componen el sistema de Transmilenio y se muestra como se comportan ellos entres sí.
+Presento un diagrama UML que modela el sistema de transporte público de Bogotá: TransMilenio. Represento las entidades principales del sistema, sus características y comportamientos (atributos y métodos), así como las relaciones que existen entre ellas (composición y herencia)
+Abstraigo los elementos que componen el sistema de Transmilenio y muestro como se comportan ellos entre sí.
 
 ## Descripción general
 
-El sistema está compuesto por varias clases que interactúan entre sí para representar el transporte público:
+El sistema está compuesto por varias clases que interactúan entre ellas para representar el transporte público:
 
 - Transmilenio es la clase principal del sistema. Tiene elementos que son: estaciones, buses, funcionarios, usuarios, rutas y horarios.
 
